@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout n1:background="@color/news_updatelist" n1:layout_width="200dp" n1:layout_height="wrap_content" n1:layout_marginLeft="5.0dip" n1:layout_marginTop="6.0dip" n1:layout_marginRight="5.0dip" n1:layout_marginBottom="6.0dip"
+    xmlns:n1="http://schemas.android.com/apk/res/android">
+    <RelativeLayout n1:id="@+id/relativeLayout_news_updates_adapter" n1:layout_width="fill_parent" n1:layout_height="wrap_content">
+        <ImageView  n1:id="@+id/imageView_news_Update_adapter" n1:layout_width="fill_parent" n1:layout_height="200dp" n1:src="@drawable/video_thum" n1:scaleType="fitXY" />
+
+
+        <TextView n1:textSize="12.0dip" n1:textStyle="bold" n1:textColor="@color/colorStart" n1:ellipsize="end"
+            n1:padding="10dp"
+            n1:gravity="bottom"
+            n1:id="@+id/tectView_news_title_news_update_adapter" n1:layout_width="match_parent" n1:layout_height="40dp"
+            n1:text="vvvvvv" n1:maxLines="1"
+            n1:layout_alignBottom="@+id/imageView_news_Update_adapter" n1:layout_alignParentLeft="true"  n1:background="@drawable/back"/>
+
+        <View  n1:id="@+id/view" n1:background="@color/view_line_news" n1:layout_width="fill_parent"
+            n1:layout_height="1.0dip" n1:layout_below="@+id/imageView_news_Update_adapter" />
+     </RelativeLayout>
+</RelativeLayout>

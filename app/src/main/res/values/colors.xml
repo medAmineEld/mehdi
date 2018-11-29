@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#020517</color>
+    <color name="colorPrimaryDark">#020517</color>
+    <color name="colorAccent">#a27b1e</color>
+    <color name="colorStart">#FFFFFF</color>
+    <color name="colorGray">#D4D4D4</color>
+    <color name="colorSoGrey">#eae6e6</color>
+    <color name="colorOrange">#FF6B21</color>
+    <color name="colorYellow">#fcff00</color>
+    <color name="colorKaki">#a27b1e</color>
+    <color name="colorBlack">#000000</color>
+    <color name="viewBg">#fff39d</color>
+    <color name="movie_title">#4c4c4c</color>
+    <color name="movie_bar">#020517</color>
+    <color name="red">#ff0000</color>
+    <color name="card_movie">#a66340</color>
+    <color name="list_genres">#885826</color>
+    <color name="grey_hard">#4d4e4f</color>
+    <color name="CollapsingToolbarLayout">#80000000</color>
+    <color name="navigationView">#e6000000</color>
+    <color name="news_updatelist">#ff000000</color>
+    <color name="view_line_news">#66f9f5f6</color>
+    <color name="categ">#ff00f6</color>
+    <color name="pink">#680d7d</color>
+    <color name="super_grey_hard">#252424</color>
+</resources>
